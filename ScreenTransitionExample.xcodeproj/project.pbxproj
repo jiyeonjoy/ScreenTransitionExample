@@ -48,7 +48,6 @@
 		2705432828EC100A00F103FB = {
 			isa = PBXGroup;
 			children = (
-				2721B16B28ED742D006E80C8 /* CodePresentViewController.swift */,
 				2705433328EC100A00F103FB /* ScreenTransitionExample */,
 				2705433228EC100A00F103FB /* Products */,
 			);
@@ -75,6 +74,7 @@
 				2705434828EC1D3900F103FB /* SeguePushViewController.swift */,
 				2705434A28EC219600F103FB /* SeguePresentViewController.swift */,
 				2721B16928ED7055006E80C8 /* CodePushViewController.swift */,
+				2721B16B28ED742D006E80C8 /* CodePresentViewController.swift */,
 			);
 			path = ScreenTransitionExample;
 			sourceTree = "<group>";
